@@ -34,3 +34,11 @@ Excel | Pivot Tables | GETPIVOTDATA | VBA | Custom Slicer Styles
 
 ## Author
 **Ali Zaib** | [GitHub](https://github.com/zaib-analyst)
+
+## Dashboard Preview
+
+### Page 1 — Attrition Overview
+![Page 1](page1.png)
+
+### Page 2 — Employee Deep Dive
+![Page 2](page2.png)
